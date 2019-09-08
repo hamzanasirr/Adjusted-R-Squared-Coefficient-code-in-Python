@@ -10,4 +10,5 @@ Where:
 <ul>
   <li>N is the number of points in your data sample.</li>
   <li>K is the number of independent regressors, i.e. the number of variables in your model, excluding the constant.</li>
+  <li>R2 is the R-Squared Coefficient</li>
 </ul>
